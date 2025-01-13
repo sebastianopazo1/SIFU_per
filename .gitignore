@@ -12,3 +12,4 @@ libmesh/
 pytorch3d/
 kaolin/
 libvoxelize/
+ROMP/
